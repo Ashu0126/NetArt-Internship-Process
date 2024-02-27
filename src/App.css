@@ -139,12 +139,9 @@ hr {
     width: 100%;
   }
 
-  h5 {
-    text-align: center;
-  }
-
   .mainContent ul {
-    margin: 1rem;
+    margin: 1rem 2rem;
+    font-weight: 500;
   }
 
   .caption {
@@ -154,6 +151,7 @@ hr {
 
   .product p {
     text-align: center;
+    margin: 0 1rem;
   }
 
   .productSection img {
@@ -164,6 +162,10 @@ hr {
 
   .footerContent {
     margin: 1.5rem 1rem;
+  }
+
+  .footerContent p {
+    margin: 0rem;
   }
 
   .contact {
