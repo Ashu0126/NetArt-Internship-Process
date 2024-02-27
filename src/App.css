@@ -137,11 +137,11 @@ hr {
 
   .mainContent {
     width: 100%;
+    text-align: center;
   }
 
   .mainContent ul {
-    margin: 1rem 0.5rem 1rem 1rem;
-    font-weight: 500;
+    margin: 1rem;
   }
 
   .caption {
