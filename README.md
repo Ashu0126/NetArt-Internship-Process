@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# NetArt Internship Selection Test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the NetArt Internship Selection Test!
 
-## Available Scripts
+This project is a React application created for the purpose of participating in the NetArt internship selection process. The application is hosted on Netlify for evaluation.
 
-In the project directory, you can run:
+## Application Overview
 
-### `yarn start`
+This React application is built according to the specifications provided by NetArt for the internship selection test. It includes:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Rendering of a webpage based on provided assets.
+- Utilization of CSS Flex for layout.
+- Ensuring mobile responsiveness.
+- Hosting on Netlify for evaluation.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instructions
 
-### `yarn test`
+To view the application and participate in the evaluation process:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Visit the application hosted on Netlify: [NetArt Internship Selection Test](https://netart-internship-crigroup.netlify.app/).
+2. Explore the webpage rendered based on the provided assets.
+3. Test the responsiveness of the page on different devices.
+4. Ensure the accuracy in replicating the provided image.
 
-### `yarn build`
+## Evaluation Criteria
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The evaluation of the application is based on the following criteria:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Accuracy in replicating the provided image.
+- Adherence to specified technologies and techniques.
+- Responsiveness on all devices.
+- Hosting on Netlify as specified.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Submission
 
-### `yarn eject`
+The application has been submitted for evaluation on Netlify as per the deadline provided by NetArt. The Netlify link for the application has been shared with the NetArt team for assessment.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Thank you for considering this application for the NetArt internship selection process!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+_Note: This README serves as documentation for the project and should not be used for communication or replies._
